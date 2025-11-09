@@ -1,0 +1,2 @@
+# MachineProX-Privacy
+Privacy policy
