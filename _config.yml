@@ -1,0 +1,22 @@
+# GitHub Pages Configuration
+theme: minima
+title: MachineProX Calculator
+description: Professional CNC Calculator - Privacy Policy and Documentation
+show_downloads: false
+
+# Navigation
+header_pages:
+  - PRIVACY_POLICY.md
+  - README.md
+
+# SEO
+google_analytics: # Leave empty - we don't track users!
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
