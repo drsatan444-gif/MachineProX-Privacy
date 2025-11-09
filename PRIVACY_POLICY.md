@@ -85,10 +85,6 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 Since the App doesn't collect data or connect to the internet, it cannot notify you of policy changes. Please check this policy periodically if you have concerns.
 
-## Open Source
-
-MachineProX Calculator's code is available for review, providing transparency about our data handling practices. You can verify that the app operates exactly as described in this privacy policy.
-
 ## Your Rights
 
 Since we don't collect any personal data:
